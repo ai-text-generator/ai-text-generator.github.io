@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ai-text-generator.github.io/sitemap.xml
